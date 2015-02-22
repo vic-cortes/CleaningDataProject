@@ -6,7 +6,7 @@ The used variables are the following:
 
 
 -----|-------------|--------------|--------|-----------
-"Activity" | "tBodyAcc-mean()-X"|               "tBodyAcc-mean()-Y"|               "tBodyAcc-mean()-Z" |              "tBodyAcc-std()-X"               
+Activity | tBodyAcc-mean()-X|               tBodyAcc-mean()-Y|               "tBodyAcc-mean()-Z" |              "tBodyAcc-std()-X"               
  [5] "tBodyAcc-std()-Y"        |        "tBodyAcc-std()-Z"           |     "tGravityAcc-mean()-X"     |       "tGravityAcc-mean()-Y"           
  [9] "tGravityAcc-mean()-Z"    |        "tGravityAcc-std()-X"       |      "tGravityAcc-std()-Y"    |         "tGravityAcc-std()-Z"            
 
