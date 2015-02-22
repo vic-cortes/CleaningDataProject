@@ -3,10 +3,12 @@ This code book explains all the variables obtained in the data cleaning as well 
 
 ## Variables
 The used variables are the following:
-1. "Activity"
-2. "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"               "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
- [5] "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"                "tGravityAcc-mean()-X"            "tGravityAcc-mean()-Y"           
- [9] "tGravityAcc-mean()-Z"            "tGravityAcc-std()-X"             "tGravityAcc-std()-Y"             "tGravityAcc-std()-Z"            
+
+
+
+"Activity" | "tBodyAcc-mean()-X"|               "tBodyAcc-mean()-Y"|               "tBodyAcc-mean()-Z" |              "tBodyAcc-std()-X"               
+ [5] "tBodyAcc-std()-Y"        |        "tBodyAcc-std()-Z"           |     "tGravityAcc-mean()-X"     |       "tGravityAcc-mean()-Y"           
+ [9] "tGravityAcc-mean()-Z"    |        "tGravityAcc-std()-X"       |      "tGravityAcc-std()-Y"    |         "tGravityAcc-std()-Z"            
 [13] "tBodyAccJerk-mean()-X"           "tBodyAccJerk-mean()-Y"           "tBodyAccJerk-mean()-Z"           "tBodyAccJerk-std()-X"           
 [17] "tBodyAccJerk-std()-Y"            "tBodyAccJerk-std()-Z"            "tBodyGyro-mean()-X"              "tBodyGyro-mean()-Y"             
 [21] "tBodyGyro-mean()-Z"              "tBodyGyro-std()-X"               "tBodyGyro-std()-Y"               "tBodyGyro-std()-Z"              
